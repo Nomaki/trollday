@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>TrollDay : | <%= @title %></title>
+  </head>
+  <body>
+    <h1>HomePage</h1>
+    <p>
+      Coming soon...
+    </p>
+  </body>
+</html>
